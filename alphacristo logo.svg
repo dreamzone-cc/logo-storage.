@@ -75,13 +75,7 @@
        x2="109.10989"
        y2="53.796532" /></defs><g
      id="layer1"
-     transform="translate(-164.59306,-5.4115221)"><rect
-       style="fill:#f9f9f9;fill-opacity:0.996078;stroke-width:0.264583"
-       id="rect4"
-       width="230.71666"
-       height="323.85001"
-       x="-4.173686"
-       y="-8.5762568" /><g
+     transform="translate(-164.59306,-5.4115221)"><g
        id="g1"
        transform="matrix(0.22788798,0,0,0.22788798,164.78702,5.411524)"><path
          id="path2-42"

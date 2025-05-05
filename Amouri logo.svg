@@ -28,13 +28,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.1076514,0,0,0.66960368,-0.71046329,51.301123)" /></defs><g
      id="layer1"
-     transform="translate(-1.9186204,-2.9039371)"><rect
-       style="fill:#f9f9f9;fill-opacity:0.996078;stroke-width:0.264583"
-       id="rect4"
-       width="230.71666"
-       height="323.85001"
-       x="-4.173686"
-       y="-8.5762568" /><path
+     transform="translate(-1.9186204,-2.9039371)"><path
        style="fill:#e86809;fill-opacity:1;stroke-width:0.161439"
        d="M 6.8127611,2.9039369 7.6434185,3.9366429 4.2758876,9.2797936 H 30.744688 l 0.04491,1.0776074 -28.8709775,-0.157147 z"
        id="path1" /><path
